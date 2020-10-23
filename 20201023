@@ -1,0 +1,45 @@
+OSI model:  Open Systems Interconnection model (開放系統互連模型)
+https://en.wikipedia.org/wiki/OSI_model#Layer_7:_Application_Layer
+.
+.
+7. Application 
+6. Presentation
+5. Session 
+4. Transport:
+   tcp 與 udp 區別:
+   
+                  https://support.auralic.com/hc/zh-tw/articles/206072258-TCP%E5%92%8CUDP%E5%8D%94%E8%AD%B0%E6%9C%89%E4%BB%80%E9%BA%BC%E5%8D%80%E5%88%A5-
+                  http://dns2.asia.edu.tw/~wzyang/slides/info_net/info_B/CH10TCP.pdf
+https://www.techopedia.com/definition/9760/transport-layer
+https://en.wikipedia.org/wiki/Transport_layer
+***
+***
+***
+3. Network: 
+          網絡層提供了一種方法，用於通過一個或多個網絡將可變長度的網絡數據包從源傳輸到目標主機。在OSI網絡體系結構的服務分層語義內，
+      網絡層響應來自傳輸層的服務請求，並將服務請求發佈到數據鏈路層
+https://en.wikipedia.org/wiki/Network_layer
+https://www.cloudflare.com/zh-tw/learning/network-layer/what-is-the-network-layer/
+***
+***
+***
+2. DataLink: 
+        甲數據鏈路是手段一個位置連接到另一個用於發送的目的，接收數字信息（數據通信）。它還可以指一組電子組件，由發射器和接收器（兩個數據終端設備）和互連的數據通信電路組成。
+    這些由鏈接協議控制，該協議允許將數字數據從數據源傳輸到數據接收器。
+https://en.wikipedia.org/wiki/Data_link
+    
+    可以構想和使用至少三種類型的基本數據鏈路配置：
+        1. 單工通信: 最通常意味著僅在一個方向上進行所有通信。
+        2. 半雙工通信: 表示雙向通信，但不能同時雙向通信。
+        3. 雙工通訊: 雙向同時通訊
+https://kknews.cc/zh-tw/tech/l65op5g.html
+***
+***
+***
+1.Physical: 網路的實體層面確保原始的資料可在各種物理媒體上傳輸
+  功能: 
+      1. 為資料端裝置提供傳送資料通路
+      2. 傳輸資料
+    https://www.tutorialspoint.com/data_communication_computer_network/physical_layer_introduction.htm
+    https://en.wikipedia.org/wiki/Physical_layer
+    https://en.wikipedia.org/wiki/Category:Physical_layer_protocols
