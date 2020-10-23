@@ -7,9 +7,8 @@ https://en.wikipedia.org/wiki/OSI_model#Layer_7:_Application_Layer
 5. Session 
 4. Transport:
    tcp 與 udp 區別:
-   
-                  https://support.auralic.com/hc/zh-tw/articles/206072258-TCP%E5%92%8CUDP%E5%8D%94%E8%AD%B0%E6%9C%89%E4%BB%80%E9%BA%BC%E5%8D%80%E5%88%A5-
-                  http://dns2.asia.edu.tw/~wzyang/slides/info_net/info_B/CH10TCP.pdf
+https://support.auralic.com/hc/zh-tw/articles/206072258-TCP%E5%92%8CUDP%E5%8D%94%E8%AD%B0%E6%9C%89%E4%BB%80%E9%BA%BC%E5%8D%80%E5%88%A5-
+http://dns2.asia.edu.tw/~wzyang/slides/info_net/info_B/CH10TCP.pdf
 https://www.techopedia.com/definition/9760/transport-layer
 https://en.wikipedia.org/wiki/Transport_layer
 ***
