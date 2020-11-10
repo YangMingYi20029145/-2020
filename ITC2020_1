@@ -1,0 +1,22 @@
+
+下列3種技術來設計網站的內容:HTML, CSS, JavaScript
+
+HTML: Hypertext Markup Language (超文字標示語言)
+      是一種用來組織架構並呈現網頁(webpage)內容的程式語言
+      用來描述網頁的內容包括 標題、段落、連結、清單、圖片、影片、表單、按鈕和其他元素(elements)等等。
+      
+CSS: Cascading Style Sheets(階層式樣式表)
+     是用來指定網頁上的內容在瀏覽器(Browser)中將會如何顯示
+     網頁開發人員會使用 CSS 來指定色彩、位置、對齊方式、字型、背景圖片等屬性
+     
+JavaScript: 是一種用來編寫用戶端腳本程式(client-side script)的程式語言
+            用戶端腳本程式是一種在瀏覽器(Browser)這端執行的腳本程式(script)
+            用來控制網頁的行為，而且讓它能與使用者互動
+            
+靜態(static)網站: 提供不常變動的基本資訊
+                  維護成本便宜，適合只希望在網路上建立形象的小公司
+                  網頁開發者通常選擇HTML來編寫網頁程式碼
+
+動態(dynamic)網站: 經常是使用伺服器腳本語言(sever-side scripting language)來製作
+                  腳本語言(sever-side scripting language)例如: Python、Java、Js、PHP、Ruby、C#
+                  開發者會連結使用腳本程式與HTML、JS、CSS共同產生後會再使用者的瀏覽器上顯示網頁內容
