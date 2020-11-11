@@ -1,4 +1,6 @@
+###
 bandwidth 與 bps 
+
 1. bps 英文全名為 bit per second
 2. 指在一條資料傳輸路徑中，固定時間內所能容許的資料傳輸量
 3. Bandwidth（頻寬）的單位為 Hz(Hertz, 赫茲)
